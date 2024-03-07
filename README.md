@@ -1,6 +1,7 @@
 # Zero Shot Object Detection (GroundingDINO) Streamlit [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
 A minimalistic webapp to perform zero shot object detection based on textual prompts using GroundingDINO 
 
+![demo](https://github.com/prateekralhan/Zero-shot-object-detection-Streamlit/assets/29462447/6ce9ab9c-cef5-4383-9efc-787bc3831df0)
 
 ## Installation:
 * Simply run the command ```pip install -r requirements.txt``` to install the dependencies.
@@ -18,6 +19,12 @@ streamlit run app.py
 ```
 streamlit run app.py --server.maxUploadSize=1028
 ```
+
+## Results:
+
+Text Prompt: ```orange, pear, bowl, plum, pomegranate```
+![187e188849730cff557f867c955d82445045c2dd42e4ecf46fc2727c](https://github.com/prateekralhan/Zero-shot-object-detection-Streamlit/assets/29462447/cafac3d8-ca02-4d34-8283-51bf7894fa9a)
+
 
 ### Running the Dockerized App
 1. Ensure you have Docker Installed and Setup in your OS (Windows/Mac/Linux). For detailed Instructions, please refer [this.](https://docs.docker.com/engine/install/)
