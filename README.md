@@ -23,6 +23,8 @@ streamlit run app.py --server.maxUploadSize=1028
 ## Results:
 
 Text Prompt: ```orange, pear, bowl, plum, pomegranate```
+
+
 ![187e188849730cff557f867c955d82445045c2dd42e4ecf46fc2727c](https://github.com/prateekralhan/Zero-shot-object-detection-Streamlit/assets/29462447/cafac3d8-ca02-4d34-8283-51bf7894fa9a)
 
 
